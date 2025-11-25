@@ -27,7 +27,7 @@ Follow these steps to set up and run the project:
 Install the required Python packages using pip:
 
 ```bash
-pip install google-generativeai python-dotenv
+pip install -r requirements.txt
 ```
 
 ### 3. Configure API Key
